@@ -1,0 +1,43 @@
+id: P4DBA4474
+initial_creation_type: input
+source_metadata:
+  title: India Series
+  language: bo
+  description: 'Texts related to India, known to Tibetans as the ''land of the Āryas''
+    (''phags yul) or ''vast white country'' (rgya gar):'
+  volume:
+    8d16a62428ee472ab2136007d6f0c514:
+      title: Aspiration to Be Reborn at the Vajra Seat (Bodhgayā), Akaniṣṭha on Earth
+      parent: Aspiration Prayers
+    5b5b21f6dcda4b0cbec1fe1f2bb2a5f3:
+      title: 'A Song of Perfect Joy: In Praise of the Sacred Sites of Rājgṛha, Vulture
+        Peak and Nālandā'
+      parent: Praise
+    a23070d6c8e6445ead8d573ce84284d6:
+      title: In Praise of Devāvatāra, Site of Buddha's Descent from Heaven
+      parent: Praise
+    a07e38c8383a4b15b6161741393fdd1a:
+      title: In Praise of Kuśinagara
+      parent: Praise
+    02824edf26d5433aad1379f555bc3cb7:
+      title: In Praise of Vārāṇasī, the Supreme Place
+      parent: Praise
+    7814e54ca1ef429e9f09550857482110:
+      title: In Praise of the Great Indian City of Kolkata
+      parent: Praise
+    234179a270944601a597b26939324ca5:
+      title: 'The Conquerors'' Delight: In Praise of Śrāvastī'
+      parent: Praise
+    8d831d3e3d644f759e95d7220a410072:
+      title: 'The White Lotus Garland of Immortality: In Praise of the Supreme Vajra
+        Place, Tso Pema (Lotus Lake)'
+      parent: Praise
+    347107fc76ee41d9ba3ccf95e160d916:
+      title: 'Melodious Sound: In Praise of Vulture Peak Mountain'
+      parent: Praise
+    6809f754eeb9494185e8da953ce206c4:
+      title: 'Gathering Auspiciousness: A Prayer of Aspiration Made in the Presence
+        of the Sacred Mahābodhi Temple and its Imagery, Magadha, Land of the Āryas'
+      parent: Prayers
+created_at: '2022-03-01T03:58:50.522795'
+last_modified_at: '2022-03-01T03:58:50.522798'
